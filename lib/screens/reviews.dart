@@ -31,13 +31,13 @@ class Reviews extends StatelessWidget {
         pathProfile: 'assets/img/profile4.jpg',
         user: 'Tiburcio Diaz',
         details: '31 review, 18 photos',
-        comments: "This is an amazing place in Sri Lanka"
+        comments: "This is an amazing place in Los Angeles"
         ),
       Review(
         pathProfile: 'assets/img/profile5.jpg',
         user: 'Hassan Jesus',
         details: '50 review, 35 photos',
-        comments: "This is an amazing place in Sri Lanka"
+        comments: "This is an amazing place in Mexico City"
         ),
       ],
     );

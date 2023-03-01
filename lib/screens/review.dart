@@ -82,8 +82,7 @@ final userInfo = Container(
       star,
       star,
       star,
-      star
-      
+
     ],
   ),
 );
