@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:travel_app5a/screens/button_navigate.dart';
 import 'package:travel_app5a/screens/review.dart';
+import 'package:travel_app5a/screens/small_button.dart';
 
 //stless
 class DescriptionPlaceScreen extends StatelessWidget {
@@ -71,6 +73,7 @@ Container description = Container(
       children: [
         titleAndStars,
         description,
+        const ButtonNavigate(buttonText: 'Navigate'),
       ],
     );
   }
